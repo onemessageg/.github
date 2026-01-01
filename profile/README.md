@@ -1,6 +1,8 @@
-# OneMSG - Secure Messaging Platform
+# OneMsg Organization
 
-OneMSG is a production-grade, end-to-end encrypted messaging platform with native mobile apps for Android and iOS, built with modern technologies and security-first architecture.
+![OneMsg Hero](assets/banner_hero.png)
+
+OneMsg is a production-grade, end-to-end encrypted messaging platform with native mobile apps for Android and iOS, built with modern technologies and security-first architecture.
 
 ## 🏗️ Project Architecture
 
